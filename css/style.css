@@ -1,0 +1,145 @@
+body {
+    background-color:#242222 !important;
+    font-family: 'Nunito', sans-serif !important;
+    color: white !important;
+    padding-top: 20px;
+}
+h1{
+    color: #FFD540 !important;
+    padding-top:50px;
+    font-weight:bold;  
+}
+h2{
+    color: #FFD540 !important;
+    text-align:center;
+    font-weight:bold;
+}
+h4 {
+    color: #FFD540 !important;
+    font-weight: bolder;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-weight:400px;
+    }
+li a {
+    font-weight:bold;
+}
+.nav a {
+    color:white;
+    text-decoration:none;
+    float:right;
+    }
+.nav a:hover{
+    color:#FFD540;
+    }
+.nav-link {
+    display: inline;
+    width:max-content;
+    top:auto;
+    position:static;
+    max-width: max-content;
+    margin-left: 75px; 
+    font-weight:400px;
+}
+.proto-intro{
+    margin-top: 20px ;
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+    border:#FFD540 solid 2px;
+    width: 1000px ;
+    height: 500px;
+    border-radius:20px;
+    padding: 100px;
+}
+.jumbotron{
+background-color:#242222 !important;
+position:inline;
+}
+button{
+    position:relative;
+    padding: 15px 32px;
+    background-color: #242222;
+    border: solid 2px #FFD540;
+    color: white;
+    font: weight 400px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 250px;
+    border-radius:100px !important;
+}
+button a{
+   color: white;
+   text-decoration: none;
+
+}
+button a:hover{
+    color:#242222;
+    text-decoration: none;
+}
+button:hover{
+    background-color: #FFD540;
+    color:#242222
+}
+.button1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.overview{
+margin-left: 80px;
+}
+.card{
+    display:flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:20px;
+    text-align:center;
+    background-color:#FFD540 !important;
+    border-radius:20px;
+    width:1000px !important;
+    height:500px;
+}
+.card-sections{
+    padding-top: 50px;
+}
+.card img .alt{
+    color:#242222 !important;
+}
+.card-body{
+    background-color:#242222;
+}
+.other-products{
+    margin-left:auto;
+    margin-right:auto;
+    padding:100px;
+}
+.other-products section{
+    text-align:center;
+}
+.product1{
+    margin:auto;
+    margin-top: 20px ;
+    margin-bottom:20px;
+    display:flex inline ;
+    border:#FFD540 solid 2px;
+    width: 300px;
+    height:500px;
+    border-radius:20px;
+    padding: 100px;
+}
+footer{
+    padding:50px;
+    text-align: center;
+}
+
+.social2 {
+    margin-bottom:7px;
+}
